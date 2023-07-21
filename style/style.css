@@ -156,7 +156,7 @@ main > article > img {
     width: 100%;
 }
 
-main > article > img.pequena {
+main > article > picture > img.pequena {
     display: block;
     margin: auto;
     max-width: 350px;
